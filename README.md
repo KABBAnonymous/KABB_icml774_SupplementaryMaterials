@@ -124,7 +124,7 @@
   <p style="font-size: smaller; margin-top: 0.5em;">pipeline with more details added</p>
 </div>
 
-## Updated picture of the knowledge graph
+## Representative Visualization of Knowledge Graph
 <div style="text-align: center;">
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
   <p style="font-size: smaller; margin-top: 0.5em;">representative visualizations of three of the core concepts and their key nodes</p>
