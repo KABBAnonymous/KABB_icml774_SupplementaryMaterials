@@ -126,12 +126,12 @@
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
 </div>
 
-## Table1: Error Analysis case 1
+## Table3: Error Analysis case 1
 <div style="text-align: center;">
   <img src="6f0d0af9ed0c1a8a670b9403a9a3656.png" alt="Error analysis case 1">
 </div>
 
-## Table1: Error Analysis case 2
+## Table4: Error Analysis case 2
 <div style="text-align: center;">
   <img src="32a90d29758a043aa1dedcaaf5dad1d.png" alt="Error analysis case 2">
 </div>
