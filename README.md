@@ -128,8 +128,8 @@
 
 ## ⑤Error Analysis
 <div style="text-align: center;">
-  <img src="error1.png" alt="Error analysis case 1">
-  <img src="error2.png" alt="Error analysis case 2">
+  <img src="52ebf5f3bc4168f6d552b619b42c9a6.png" alt="Error analysis case 1">
+  <img src="76f29f3e8e3f4bda61886a5cb6d0811.png" alt="Error analysis case 2">
 </div>
 
 
