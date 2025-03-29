@@ -1,15 +1,15 @@
 # Supplementary Materials for KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems(774)
 
-## Table1:Ablation Study Results
+## Table1: Ablation Study Results
 
 <div style="display: flex; justify-content: center;">
   <table>
     <thead>
       <tr>
         <th>Component</th>
-        <th>Win Rate</th>
-        <th>LC Win Rate</th>
-        <th>Cost per instruction</th>
+        <th>Win. (%)</th>
+        <th>LC Win. (%)</th>
+        <th>Cost per instruction ($)</th>
         <th>RAS</th>
         <th>PWRS</th>
       </tr>
@@ -64,27 +64,27 @@
         <td>59.68</td>
       </tr>
       <tr>
-        <td>KA (MAB) (i.e. KABB)</td>
-        <td>66.7</td>
-        <td>62.4</td>
-        <td>0.0016</td>
-        <td>94.16</td>
-        <td>60.19</td>
+      <td><b>KA (MAB) (i.e. KABB)</b></td>
+      <td><b>66.7</b></td>
+      <td><b>62.4</b></td>
+      <td><b>0.0016</b></td>
+      <td><b>94.16</b></td>
+      <td><b>60.19</b></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-## Table2:Comparision with Other LLM Router Methods
+## Table2: Comparision with Other LLM Router Methods
 
 <div style="display: flex; justify-content: center;">
   <table>
     <thead>
       <tr>
         <th>Model</th>
-        <th>Win Rate</th>
-        <th>LC Win Rate</th>
-        <th>Cost per instruction</th>
+        <th>Win. (%)</th>
+        <th>LC Win. (%)</th>
+        <th>Cost per instruction ($)</th>
       </tr>
     </thead>
     <tbody>
@@ -107,7 +107,7 @@
         <td>0.0013</td>
       </tr>
       <tr>
-        <td>KABB</td>
+        <td><b>KABB</b></td>
         <td>66.7</td>
         <td>62.4</td>
         <td>0.0016</td>
@@ -116,22 +116,25 @@
   </table>
 </div>
 
-## Figure1:Updated Figure 2
+## Figure1: Updated Figure 2
 <div style="text-align: center;">
   <img src="update2.png" alt="Updated Figure 2">
 </div>
 
-## Figure2:Representative Visualization of Knowledge Graph
+## Figure2: Representative Visualization of Knowledge Graph
 <div style="text-align: center;">
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
 </div>
 
-## Figure3:Error Analysis
+## Table1: Error Analysis case 1
 <div style="text-align: center;">
-  <img src="2230d426f778015ccab70357b6ceacb.png" alt="Error analysis case 1">
-  <img src="c274236bb03b72971dd1bca15b62453.png" alt="Error analysis case 2">
+  <img src="6f0d0af9ed0c1a8a670b9403a9a3656.png" alt="Error analysis case 1">
 </div>
 
+## Table1: Error Analysis case 2
+<div style="text-align: center;">
+  <img src="32a90d29758a043aa1dedcaaf5dad1d.png" alt="Error analysis case 2">
+</div>
 
 
 
