@@ -16,7 +16,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Difficulty scaling</td>
+        <td>KABB w/o Difficulty Scaling</td>
         <td>61.6</td>
         <td>60.1</td>
         <td>0.0015</td>
@@ -24,7 +24,7 @@
         <td>58.53</td>
       </tr>
       <tr>
-        <td>Semantic mismatch</td>
+        <td>KABB w/o Semantic Matching</td>
         <td>59.9</td>
         <td>58.0</td>
         <td>0.0014</td>
@@ -32,7 +32,7 @@
         <td>58.66</td>
       </tr>
       <tr>
-        <td>Dependency complexity</td>
+        <td>KABB w/o Dependency Complexity</td>
         <td>62.7</td>
         <td>60.7</td>
         <td>0.0017</td>
@@ -40,7 +40,7 @@
         <td>56.08</td>
       </tr>
       <tr>
-        <td>Historical effectiveness</td>
+        <td>KABB w/o Historical Effectiveness</td>
         <td>65.7</td>
         <td>62.1</td>
         <td>0.0016</td>
@@ -48,7 +48,7 @@
         <td>58.46</td>
       </tr>
       <tr>
-        <td>Team complementarity</td>
+        <td>KABB w/o Team Complementarity</td>
         <td>63.1</td>
         <td>60.3</td>
         <td>0.0017</td>
@@ -64,7 +64,7 @@
         <td>59.68</td>
       </tr>
       <tr>
-        <td>Default</td>
+        <td>KA (MAB)(i.e. KABB)</td>
         <td>66.7</td>
         <td>62.4</td>
         <td>0.0016</td>
