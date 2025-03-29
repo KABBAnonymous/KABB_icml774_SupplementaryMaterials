@@ -9,7 +9,7 @@
         <th>Component</th>
         <th>Win. (%)</th>
         <th>LC Win. (%)</th>
-        <th>Cost per instruction ($)</th>
+        <th>Cost per Instruction ($)</th>
         <th>RAS</th>
         <th>PWRS</th>
       </tr>
@@ -84,7 +84,7 @@
         <th>Model</th>
         <th>Win. (%)</th>
         <th>LC Win. (%)</th>
-        <th>Cost per instruction ($)</th>
+        <th>Cost per Instruction ($)</th>
       </tr>
     </thead>
     <tbody>
@@ -108,15 +108,15 @@
       </tr>
       <tr>
         <td><b>KABB</b></td>
-        <td>66.7</td>
-        <td>62.4</td>
-        <td>0.0016</td>
+        <td><b>66.7<b></td>
+        <td><b>62.4<b></td>
+        <td><b>0.0016<b></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-## Figure1: Updated Figure 2
+## Figure1: Overview of KABB (Updated Figure 2 in Paper)
 <div style="text-align: center;">
   <img src="update2.png" alt="Updated Figure 2">
 </div>
@@ -126,12 +126,12 @@
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
 </div>
 
-## Table3: Error Analysis case 1
+## Table3: Error Analysis Case 1
 <div style="text-align: center;">
   <img src="6f0d0af9ed0c1a8a670b9403a9a3656.png" alt="Error analysis case 1">
 </div>
 
-## Table4: Error Analysis case 2
+## Table4: Error Analysis Case 2
 <div style="text-align: center;">
   <img src="32a90d29758a043aa1dedcaaf5dad1d.png" alt="Error analysis case 2">
 </div>
