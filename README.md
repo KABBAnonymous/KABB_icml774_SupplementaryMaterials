@@ -56,7 +56,7 @@
         <td>59.72</td>
       </tr>
       <tr>
-        <td>EmbedLLM(MAB)</td>
+        <td>EmbedLLM (MAB)</td>
         <td>62.9</td>
         <td>60.6</td>
         <td>0.0015</td>
@@ -64,7 +64,7 @@
         <td>59.68</td>
       </tr>
       <tr>
-        <td>KA (MAB)(i.e. KABB)</td>
+        <td>KA (MAB) (i.e. KABB)</td>
         <td>66.7</td>
         <td>62.4</td>
         <td>0.0016</td>
