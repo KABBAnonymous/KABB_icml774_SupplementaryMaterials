@@ -1,6 +1,6 @@
 # Supplementary Materials for KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems(774)
 
-## ①Ablation Study Results
+## Table1:Ablation Study Results
 
 <div style="display: flex; justify-content: center;">
   <table>
@@ -75,7 +75,7 @@
   </table>
 </div>
 
-## ②Comparision with Other LLM Router Methods
+## Table2:Comparision with Other LLM Router Methods
 
 <div style="display: flex; justify-content: center;">
   <table>
@@ -116,17 +116,17 @@
   </table>
 </div>
 
-## ③Updated Figure 2
+## Figure1:Updated Figure 2
 <div style="text-align: center;">
   <img src="update2.png" alt="Updated Figure 2">
 </div>
 
-## ④Representative Visualization of Knowledge Graph
+## Figure2:Representative Visualization of Knowledge Graph
 <div style="text-align: center;">
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
 </div>
 
-## ⑤Error Analysis
+## Figure3:Error Analysis
 <div style="text-align: center;">
   <img src="52ebf5f3bc4168f6d552b619b42c9a6.png" alt="Error analysis case 1">
   <img src="76f29f3e8e3f4bda61886a5cb6d0811.png" alt="Error analysis case 2">
