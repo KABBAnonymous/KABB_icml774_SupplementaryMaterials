@@ -1,6 +1,6 @@
 # Supplementary Materials for KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems(774)
 
-## Ablation Study Results
+## ①Ablation Study Results
 
 <div style="display: flex; justify-content: center;">
   <table>
@@ -74,9 +74,8 @@
     </tbody>
   </table>
 </div>
-<p style="font-size: smaller; text-align: center; margin-top: 0.5em;">We conducted ablation experiments on six scenarios: Difficulty scaling, Semantic mismatch, Dependency complexity, Historical effectiveness, Team complementarity, and the EmbedLLM(MAB) baseline method. The experiments used the AlpacaEval2.0 dataset and recorded five evaluation metrics: Win Rate, LC Win Rate, Cost per instruction, RAS, and PWRS.</p>
 
-## Comparision with Other LLM Router Methods
+## ②Comparision with Other LLM Router Methods
 
 <div style="display: flex; justify-content: center;">
   <table>
@@ -116,25 +115,21 @@
     </tbody>
   </table>
 </div>
-<p style="font-size: smaller; text-align: center; margin-top: 0.5em;">We supplemented comparative experiments with other LLM Router Methods (including FrugalGPT, EmbedLLM, HybridLLM). The experimental dataset used AlpacaEval2.0, recording three metrics: Win Rate, LC Win Rate, and Cost per instruction.</p>
 
-## Updated Figure 2
+## ③Updated Figure 2
 <div style="text-align: center;">
   <img src="update2.png" alt="Updated Figure 2">
-  <p style="font-size: smaller; margin-top: 0.5em;">pipeline with more details added</p>
 </div>
 
-## Representative Visualization of Knowledge Graph
+## ④Representative Visualization of Knowledge Graph
 <div style="text-align: center;">
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
-  <p style="font-size: smaller; margin-top: 0.5em;">representative visualizations of three of the core concepts and their key nodes</p>
 </div>
 
-## Error Analysis
+## ⑤Error Analysis
 <div style="text-align: center;">
   <img src="error1.png" alt="Error analysis case 1">
   <img src="error2.png" alt="Error analysis case 2">
-  <p style="font-size: smaller; margin-top: 0.5em;">Supplementary error analysis cases</p>
 </div>
 
 
