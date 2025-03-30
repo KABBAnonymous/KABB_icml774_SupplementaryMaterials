@@ -116,12 +116,12 @@
 </table>
 </div>
 
-## Figure 1: Overview of KABB (Updated Figure 2 in Paper)
+## Overview of KABB (Updated Figure 2 in Paper)
 <div style="text-align: center;">
   <img src="update2.png" alt="Updated Figure 2">
 </div>
 
-## Figure 2: Representative Visualization of Knowledge Graph
+## Representative Visualization of Knowledge Graph
 <div style="text-align: center;">
   <img src="knowledgegraph.png" alt="Updated picture of the knowledge graph">
 </div>
