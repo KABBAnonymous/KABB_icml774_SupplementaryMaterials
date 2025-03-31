@@ -27,7 +27,7 @@
         <td>KABB w/o Semantic Matching</td>
         <td>59.9</td>
         <td>58.0</td>
-        <td>0.0014</td>
+        <td><b>0.0014</b></td>
         <td>89.37</td>
         <td>58.66</td>
       </tr>
@@ -67,7 +67,7 @@
       <td><b>KA (MAB) (i.e. KABB)</b></td>
       <td><b>66.7</b></td>
       <td><b>62.4</b></td>
-      <td><b>0.0016</b></td>
+      <td>0.0016</td>
       <td><b>94.16</b></td>
       <td><b>60.19</b></td>
       </tr>
@@ -84,7 +84,7 @@
 <th>Methods</th>
 <th>Win. (%)</th>
 <th>LC Win. (%)</th>
-<th>Cost per instruction ($)</th>
+<th>Cost per Instruction ($)</th>
 </tr>
 </thead>
 <tbody>
@@ -92,7 +92,7 @@
 <td>FrugalGPT (Chen et al. 2023)</td>
 <td>35.2</td>
 <td>43.5</td>
-<td>0.0005</td>
+<td><b>0.0005</b></td>
 </tr>
 <tr>
 <td>EmbedLLM (ICLR 2025)</td>
@@ -110,7 +110,7 @@
 <td><b>KABB (Ours)</b></td>
 <td><b>66.7</b></td>
 <td><b>62.4</b></td>
-<td><b>0.0016</b></td>
+<td>0.0016</td>
 </tr>
 </tbody>
 </table>
