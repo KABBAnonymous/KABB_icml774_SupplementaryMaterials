@@ -81,7 +81,7 @@
 <table>
 <thead>
 <tr>
-<th>Methods</th>
+<th>Method</th>
 <th>Win. (%)</th>
 <th>LC Win. (%)</th>
 <th>Cost per Instruction ($)</th>
