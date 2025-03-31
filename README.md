@@ -118,7 +118,7 @@
 
 ## Overview of KABB (Updated Figure 2 in Paper)
 <div style="text-align: center;">
-  <img src="d209159bd0fc1d5a8a8e968dd7424b2" alt="Updated Figure 2">
+  <img src="d209159bd0fc1d5a8a8e968dd7424b2.png" alt="Updated Figure 2">
 </div>
 
 ## Representative Visualization of Knowledge Graph
