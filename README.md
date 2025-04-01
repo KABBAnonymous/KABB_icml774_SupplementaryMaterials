@@ -89,19 +89,19 @@
 </thead>
 <tbody>
 <tr>
-<td>FrugalGPT (Chen et al. 2023)</td>
+<td>FrugalGPT</td>
 <td>35.2</td>
 <td>43.5</td>
 <td><b>0.0005</b></td>
 </tr>
 <tr>
-<td>EmbedLLM (ICLR 2025)</td>
+<td>EmbedLLM</td>
 <td>41.4</td>
 <td>48.0</td>
 <td>0.0011</td>
 </tr>
 <tr>
-<td>HybridLLM (ICLR 2023)</td>
+<td>HybridLLM</td>
 <td>38.8</td>
 <td>45.4</td>
 <td>0.0013</td>
